@@ -4,7 +4,7 @@ A simple Flutter application for managing a list of TODOs. Each TODO can have a 
 
 ## Features
 
-- Add a TODO with a title and a optional random description.
+- Add a TODO with a title and a description(optional random description).
 - Display a list of TODOs.
 - Remove TODOs from the list by tapping.
 
